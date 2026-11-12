@@ -1,6 +1,4 @@
-<div align="center">
-
-<p align="center">
+<p>
   <img
     src="https://raw.githubusercontent.com/FalcoFramework/Falco/refs/heads/master/assets/social-banner.png"
     alt="Falco"
@@ -12,10 +10,9 @@
 [![build](https://github.com/FalcoFramework/Falco/actions/workflows/build.yml/badge.svg)](https://github.com/FalcoFramework/Falco/actions/workflows/build.yml)
 [![license](https://img.shields.io/github/license/FalcoFramework/Falco.svg)](https://github.com/FalcoFramework/Falco/blob/master/LICENSE)
 ![net10.0](https://img.shields.io/badge/net-10.0-blue.svg)
-![net9.0](https://img.shields.io/badge/net-890-blue.svg)
+![net9.0](https://img.shields.io/badge/net-9.0-blue.svg)
 ![net8.0](https://img.shields.io/badge/net-8.0-blue.svg)
 ![aot](https://img.shields.io/badge/aot-compatible-green.svg)
-
 
 [Docs](https://www.falcoframework.com/docs) · [Code](https://github.com/FalcoFramework/Falco) · [Samples](https://github.com/FalcoFramework/Falco/tree/master/examples) · [Help](https://github.com/FalcoFramework/Falco/discussions)
 
